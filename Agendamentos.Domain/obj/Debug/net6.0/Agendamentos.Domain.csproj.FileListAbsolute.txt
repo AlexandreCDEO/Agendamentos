@@ -1,0 +1,12 @@
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Domain/bin/Debug/net6.0/Agendamentos.Domain.deps.json
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Domain/bin/Debug/net6.0/Agendamentos.Domain.dll
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Domain/bin/Debug/net6.0/ref/Agendamentos.Domain.dll
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Domain/bin/Debug/net6.0/Agendamentos.Domain.pdb
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Domain/obj/Debug/net6.0/Agendamentos.Domain.csproj.AssemblyReference.cache
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Domain/obj/Debug/net6.0/Agendamentos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Domain/obj/Debug/net6.0/Agendamentos.Domain.AssemblyInfoInputs.cache
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Domain/obj/Debug/net6.0/Agendamentos.Domain.AssemblyInfo.cs
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Domain/obj/Debug/net6.0/Agendamentos.Domain.csproj.CoreCompileInputs.cache
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Domain/obj/Debug/net6.0/Agendamentos.Domain.dll
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Domain/obj/Debug/net6.0/ref/Agendamentos.Domain.dll
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Domain/obj/Debug/net6.0/Agendamentos.Domain.pdb

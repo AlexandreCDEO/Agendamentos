@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EWlqpCfOh00n7sxLE12P2bzeOwvaOAX28eTvpo3FRmbQ0t736lKl99856phuv70asCYHATSL21wbKx3RhFwkHA==",
+  "success": true,
+  "projectFilePath": "/Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/Agendamentos.Infra.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexandredev/.nuget/packages/flunt/1.0.4/flunt.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
