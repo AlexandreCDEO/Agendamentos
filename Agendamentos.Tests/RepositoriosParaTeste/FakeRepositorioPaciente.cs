@@ -2,7 +2,7 @@ using System;
 using Agendamentos.Domain.Entities;
 using Agendamentos.Domain.Repositorios;
 
-namespace Agendamentos.Tests.Repositories;
+namespace Agendamentos.Tests.RepositoriosParaTeste;
 
 public class FakeRepositorioPaciente : IRepositorioPaciente
 {

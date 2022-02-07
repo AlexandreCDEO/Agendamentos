@@ -2,7 +2,7 @@ using System;
 using Agendamentos.Domain.Entities;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Agendamentos.Tests.Entities;
+namespace Agendamentos.Tests.TesteDasEntidades;
 
 [TestClass]
 public class AgendamentoTests

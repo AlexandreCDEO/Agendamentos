@@ -2,7 +2,7 @@ using Flunt.Notifications;
 
 namespace Agendamentos.Domain.Entities;
 
-public abstract class Base
+public abstract class Base : Notifiable
 {
     public Base()
     {

@@ -1,11 +1,11 @@
 using System;
 using Agendamentos.Domain.Commands;
-using Agendamentos.Domain.Commands.Medico;
+using Agendamentos.Domain.Commands.ComandosDeMedico;
 using Agendamentos.Domain.Handlers;
-using Agendamentos.Tests.Repositories;
+using Agendamentos.Tests.RepositoriosParaTeste;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Agendamentos.Tests.Handlers.Medico;
+namespace Agendamentos.Tests.TesteDosManipuladores.TesteDosManipuladoresDoMedico;
 
 [TestClass]
 public class ManipuladorMedicoTests

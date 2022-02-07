@@ -2,7 +2,7 @@ using Agendamentos.Domain.Commands.Contracts;
 using Flunt.Notifications;
 using Flunt.Validations;
 
-namespace Agendamentos.Domain.Commands.Medico;
+namespace Agendamentos.Domain.Commands.ComandosDeMedico;
 
 public class ComandoCriaMedico :Notifiable, ICommand
 {

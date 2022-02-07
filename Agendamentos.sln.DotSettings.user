@@ -1,13 +1,13 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7be5cc3a_002Dd71b_002D495e_002D9cc0_002Dd3c0804586e8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Dado_um_agendamento_valido_o_metodo_AgendaLivre_deve_retornar_true #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7be5cc3a_002Dd71b_002D495e_002D9cc0_002Dd3c0804586e8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Dado_um_agendamento_valido_o_metodo_AgendaLivre_deve_retornar_true #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;MSTest::BFC7734D-84A0-4370-B282-26A46801A2BD::net6.0::Agendamentos.Tests.Entities.MedicoTests.Dado_um_agendamento_valido_o_metodo_AgendaLivre_deve_retornar_true&lt;/TestId&gt;
     &lt;TestId&gt;MSTest::BFC7734D-84A0-4370-B282-26A46801A2BD::net6.0::Agendamentos.Tests.Commands.ComandoCriaMedicoTests.Dada_propriedades_validas_o_comando_deve_ser_valido&lt;/TestId&gt;
     &lt;TestId&gt;MSTest::BFC7734D-84A0-4370-B282-26A46801A2BD::net6.0::Agendamentos.Tests.Entities.AgendamentoTests.Dado_um_agendamento_feito_com_pelo_menos_24_horas_de_antecedencia_o_metodo_Antecedencia_deve_retornar_true&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9e91078c_002Df74e_002D43f7_002D8322_002Dcc90ad5cb553/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Dado_um_agendamento_valido_o_metodo_AgendaLivre_deve_retornar_true" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9e91078c_002Df74e_002D43f7_002D8322_002Dcc90ad5cb553/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Dado_um_agendamento_valido_o_metodo_AgendaLivre_deve_retornar_true" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
-    &lt;TestId&gt;MSTest::BFC7734D-84A0-4370-B282-26A46801A2BD::net6.0::Agendamentos.Tests.Entities.MedicoTests.Dado_um_agendamento_valido_o_metodo_AgendaLivre_deve_retornar_true&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::BFC7734D-84A0-4370-B282-26A46801A2BD::net6.0::Agendamentos.Tests.TesteDosManipuladores.TesteDosManipuladoresDoAgendamento.ManipuladorAgendamentoTestes.Dado_um_comando_valido_deve_criar_um_agendamento&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

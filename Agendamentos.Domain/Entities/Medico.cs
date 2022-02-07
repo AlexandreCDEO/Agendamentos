@@ -27,7 +27,7 @@ public class Medico : Base
     }
     
 
-    bool AgendaLivre(DateTime inicio)
+    public bool AgendaLivre(DateTime inicio)
     {
         foreach (var agendamento in Agendamentos)
         {

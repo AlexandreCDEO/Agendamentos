@@ -1,7 +1,6 @@
 using Agendamentos.Domain.Commands;
+using Agendamentos.Domain.Commands.ComandosDePaciente;
 using Agendamentos.Domain.Commands.Contracts;
-using Agendamentos.Domain.Commands.Medico;
-using Agendamentos.Domain.Commands.Paciente;
 using Agendamentos.Domain.Entities;
 using Agendamentos.Domain.Handlers.Contracts;
 using Agendamentos.Domain.Repositorios;

@@ -25,7 +25,7 @@ public class Paciente : Base
         get { return _agendamentos.ToArray(); }
     }
     
-    bool AgendaLivre(DateTime inicio)
+    public bool AgendaLivre(DateTime inicio)
     {
         foreach (var agendamento in Agendamentos)
         {

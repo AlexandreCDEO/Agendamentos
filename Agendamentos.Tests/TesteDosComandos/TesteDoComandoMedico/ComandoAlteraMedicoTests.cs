@@ -1,8 +1,8 @@
 using System;
-using Agendamentos.Domain.Commands.Medico;
+using Agendamentos.Domain.Commands.ComandosDeMedico;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Agendamentos.Tests.Commands.Medico;
+namespace Agendamentos.Tests.TesteDosComandos.TesteDoComandoMedico;
 
 [TestClass]
 public class ComandoAlteraMedicoTests

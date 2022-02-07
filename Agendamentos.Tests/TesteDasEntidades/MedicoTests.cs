@@ -2,10 +2,10 @@ using System;
 using Agendamentos.Domain.Entities;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Agendamentos.Tests.Entities;
+namespace Agendamentos.Tests.TesteDasEntidades;
 
 [TestClass]
-public class PacienteTests
+public class MedicoTests
 {
     private readonly Paciente _paciente = new Paciente("Alexandre","15997314012", "40558477852", DateTime.Now.AddYears(-30));
     private readonly Medico _medico = new Medico("Jorge", "123456", "1234");
@@ -15,9 +15,9 @@ public class PacienteTests
     public void Dado_um_agendamento_com_horario_invalido_o_metodo_AgendaLivre_deve_retornar_falso()
     {
         var primeiroAgendamento = new Agendamento(new DateTime(2022,02,05,10,10,10), new DateTime(2022,02,05,10,20,10), _paciente, _medico);
-        _paciente.AdicionaAgendamento(primeiroAgendamento);
+        _medico.AdicionaAgendamento(primeiroAgendamento);
         
-        Assert.AreEqual(_paciente.AdicionaAgendamento(primeiroAgendamento), false);
+        Assert.AreEqual(_medico.AdicionaAgendamento(primeiroAgendamento), false);
         
     }
     
@@ -27,8 +27,8 @@ public class PacienteTests
         
         var primeiroAgendamento = new Agendamento(new DateTime(2022,02,05,10,10,10), new DateTime(2022,02,05,10,20,10), _paciente, _medico);
         var segundoAgendamento = new Agendamento(new DateTime(2022,02,05,10,30,10), new DateTime(2022,02,05,10,40,10),_paciente, _medico);
-        _paciente.AdicionaAgendamento(primeiroAgendamento);
+        _medico.AdicionaAgendamento(primeiroAgendamento);
         
-        Assert.AreEqual(_paciente.AdicionaAgendamento(segundoAgendamento), true); 
+        Assert.AreEqual(_medico.AdicionaAgendamento(segundoAgendamento), true); 
     }
 }

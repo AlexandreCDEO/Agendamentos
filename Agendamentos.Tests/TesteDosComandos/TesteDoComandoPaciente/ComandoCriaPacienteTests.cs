@@ -1,8 +1,8 @@
 using System;
-using Agendamentos.Domain.Commands.Paciente;
+using Agendamentos.Domain.Commands.ComandosDePaciente;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Agendamentos.Tests.Commands.Paciente;
+namespace Agendamentos.Tests.TesteDosComandos.TesteDoComandoPaciente;
 
 [TestClass]
 public class ComandoCriaPacienteTests
