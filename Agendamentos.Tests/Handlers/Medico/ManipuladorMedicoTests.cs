@@ -36,7 +36,5 @@ public class ManipuladorMedicoTests
         var result = (ComandoResultadoGenerico)handler.Handle(command);
         Assert.AreEqual(result.Success, true);
 
-
-        
     }
 }

@@ -9,14 +9,17 @@
   <ItemGroup>
     <Compile Remove="Class1.cs" />
     <Compile Remove="Entidades\**" />
+    <Compile Remove="Handlers\Medico\**" />
   </ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Remove="Entidades\**" />
+    <EmbeddedResource Remove="Handlers\Medico\**" />
   </ItemGroup>
 
   <ItemGroup>
     <None Remove="Entidades\**" />
+    <None Remove="Handlers\Medico\**" />
   </ItemGroup>
 
   <ItemGroup>

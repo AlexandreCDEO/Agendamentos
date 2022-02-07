@@ -106,8 +106,8 @@ public class AgendamentoTests
         Dado_um_agendamento_feito_com_pelo_menos_24_horas_de_antecedencia_o_metodo_Antecedencia_deve_retornar_true()
     {
         var agendamento = new Agendamento(
-            new DateTime(2022,02,08,08,30,00),
-            new DateTime(2022, 02,08,09,00,00),
+            DateTime.Now.AddDays(2), 
+            DateTime.Now.AddDays(2), 
             null,
             null
         );

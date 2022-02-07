@@ -62,6 +62,6 @@ public class ManipuladorMedico : Notifiable,
         _repositorio.Alterar(medico);
         
         //Retorna o resultado
-        return new ComandoResultadoGenerico(true, "Propriedades do medico alterada com sucesso", medico);
+        return new ComandoResultadoGenerico(true, $"Dados do medico {medico.Nome} alterados com sucesso", medico);
     }
 }

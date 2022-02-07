@@ -1,19 +1,18 @@
 using System;
-using Agendamentos.Domain.Commands.Medico;
+using Agendamentos.Domain.Commands.Paciente;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Agendamentos.Tests.Commands.Medico;
+namespace Agendamentos.Tests.Commands.Paciente;
 
 [TestClass]
-public class ComandoAlteraMedicoTests
+public class ComandoAlteraPacienteTests
 {
-    private readonly ComandoAlteraMedico _comandoValido = new ComandoAlteraMedico(Guid.NewGuid(), "11111111111");
-    private readonly ComandoAlteraMedico _comandoInvalido = new ComandoAlteraMedico();
+    private readonly ComandoAlteraPaciente _comandoValido = new ComandoAlteraPaciente(Guid.NewGuid(), "15912341234");
+    private readonly ComandoAlteraPaciente _comandoInvalido = new ComandoAlteraPaciente();
 
     [TestMethod]
     public void Dada_propriedades_validas_o_comando_deve_retornar_valido_como_true()
     {
-        
         _comandoValido.Validate();
         Assert.AreEqual(_comandoValido.Valid, true);
     }
