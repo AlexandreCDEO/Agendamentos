@@ -12,8 +12,6 @@ public class ComandoAlteraMedicoTests
     {
         var command = new ComandoAlteraMedico();
         command.Codigo = Guid.NewGuid();
-        command.Nome = "Alexandre";
-        command.Crm = "123456";
         command.Telefone = "15997314012";
         command.Validate();
         Assert.AreEqual(command.Valid, true);

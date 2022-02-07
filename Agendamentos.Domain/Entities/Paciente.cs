@@ -48,6 +48,11 @@ public class Paciente : Base
 
         return false;
     }
+    
+    public void AlteraTelefone(string telefone)
+    {
+        Telefone = telefone;
+    }
 
     
 }

@@ -5,6 +5,11 @@ using Flunt.Validations;
 public class Medico : Base
 {
     private IList<Agendamento> _agendamentos;
+
+    public Medico()
+    {
+        
+    }
     public Medico(string nome, string crm, string telefone)
     {
         Nome = nome;
@@ -44,6 +49,11 @@ public class Medico : Base
         }
 
         return false;
+    }
+
+    public void AlteraTelefone(string telefone)
+    {
+        Telefone = telefone;
     }
 
 }
