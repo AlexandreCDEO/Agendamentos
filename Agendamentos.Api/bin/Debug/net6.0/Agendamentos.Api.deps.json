@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Agendamentos.Api/1.0.0": {
+        "dependencies": {
+          "Agendamentos.Domain": "1.0.0",
+          "Agendamentos.Infra": "1.0.0"
+        },
+        "runtime": {
+          "Agendamentos.Api.dll": {}
+        }
+      },
+      "Flunt/1.0.4": {
+        "runtime": {
+          "lib/netstandard2.0/Flunt.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "Agendamentos.Domain/1.0.0": {
+        "dependencies": {
+          "Flunt": "1.0.4"
+        },
+        "runtime": {
+          "Agendamentos.Domain.dll": {}
+        }
+      },
+      "Agendamentos.Infra/1.0.0": {
+        "dependencies": {
+          "Agendamentos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Agendamentos.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Agendamentos.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flunt/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zsKA3Wol1+UeQBYtXuO56+ua6DBUpD5dcp3iAa86W5WcMLOWBMaDXKdqIrrLNgQUOW/U/svecb4ldgqwnC9XDQ==",
+      "path": "flunt/1.0.4",
+      "hashPath": "flunt.1.0.4.nupkg.sha512"
+    },
+    "Agendamentos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Agendamentos.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

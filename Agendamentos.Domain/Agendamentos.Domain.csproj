@@ -10,6 +10,7 @@
     <Compile Remove="Class1.cs" />
     <Compile Remove="Entidades\**" />
     <Compile Remove="Handlers\Medico\**" />
+    <Compile Remove="Queries\PacienteQueries.cs" />
   </ItemGroup>
 
   <ItemGroup>

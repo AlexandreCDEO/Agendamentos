@@ -1,0 +1,15 @@
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/bin/Debug/net6.0/Agendamentos.Infra.deps.json
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/bin/Debug/net6.0/Agendamentos.Infra.dll
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/bin/Debug/net6.0/ref/Agendamentos.Infra.dll
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/bin/Debug/net6.0/Agendamentos.Infra.pdb
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/bin/Debug/net6.0/Agendamentos.Domain.dll
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/bin/Debug/net6.0/Agendamentos.Domain.pdb
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/obj/Debug/net6.0/Agendamentos.Infra.csproj.AssemblyReference.cache
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/obj/Debug/net6.0/Agendamentos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/obj/Debug/net6.0/Agendamentos.Infra.AssemblyInfoInputs.cache
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/obj/Debug/net6.0/Agendamentos.Infra.AssemblyInfo.cs
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/obj/Debug/net6.0/Agendamentos.Infra.csproj.CoreCompileInputs.cache
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/obj/Debug/net6.0/Agendamentos.Infra.csproj.CopyComplete
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/obj/Debug/net6.0/Agendamentos.Infra.dll
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/obj/Debug/net6.0/ref/Agendamentos.Infra.dll
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/obj/Debug/net6.0/Agendamentos.Infra.pdb

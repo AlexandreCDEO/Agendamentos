@@ -26,12 +26,15 @@ public class ManipuladorAgendamentoTestes
         Assert.AreEqual(resultado.Success, false);
     }
     
+    /*Todo dia tem que acertar o Horario, senao da erro no teste , pois o agendanmento nao fica com 24 horas de antecedencia
+    e tem que colocar um agendamento que nao seja sabado nem domingo.*/
+    
     [TestMethod]
     public void Dado_um_comando_valido_deve_criar_um_agendamento()
     {
         var comando = new ComandoCriaAgendamento();
-        comando.InicioAtendimento = new DateTime(2022, 02, 09, 09, 00, 00);
-        comando.FimAtendimento = new DateTime(2022, 02, 09, 09, 30, 00);
+        comando.InicioAtendimento = new DateTime(2022, 02, 10, 09, 00, 00);
+        comando.FimAtendimento = new DateTime(2022, 02, 10, 09, 30, 00);
         comando.CodigoMedico = Guid.NewGuid();
         comando.CodigoPaciente = Guid.NewGuid();
 
