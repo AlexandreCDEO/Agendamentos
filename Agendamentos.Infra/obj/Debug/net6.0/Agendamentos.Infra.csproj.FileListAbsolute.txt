@@ -13,3 +13,5 @@
 /Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/obj/Debug/net6.0/Agendamentos.Infra.dll
 /Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/obj/Debug/net6.0/ref/Agendamentos.Infra.dll
 /Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/obj/Debug/net6.0/Agendamentos.Infra.pdb
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/bin/Debug/net6.0/Agendamentos.Infra.runtimeconfig.json
+/Users/alexandredev/Dev/Agendamentos/Agendamentos.Infra/obj/Debug/net6.0/Agendamentos.Infra.genruntimeconfig.cache

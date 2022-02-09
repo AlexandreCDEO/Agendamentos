@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using Agendamentos.Domain.Entities;
 using Agendamentos.Domain.Repositorios;
 
@@ -24,5 +25,25 @@ public class FakeRepositorioAgendamento : IRepositorioAgendamento
             new Paciente("Nome do Paciente", "15997314012", "12345678911", DateTime.Now),
             new Medico("Nome do Medico", "123456", "15997314012")
         );
+    }
+
+    public IEnumerable<Agendamento> BuscarTodasConsultasPorPaciente(string pacienteCpf)
+    {
+        throw new NotImplementedException();
+    }
+
+    public IEnumerable<Agendamento> BuscaTodasConsultasPorMedico(string medicoCrm)
+    {
+        throw new NotImplementedException();
+    }
+
+    public IEnumerable<Agendamento> BuscaTodasConsultasDoDia()
+    {
+        throw new NotImplementedException();
+    }
+
+    public IEnumerable<Agendamento> BuscaTodasConsultasDoDiaDeUmMedico(string medicoCrm)
+    {
+        throw new NotImplementedException();
     }
 }
